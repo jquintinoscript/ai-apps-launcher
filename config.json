@@ -1,0 +1,8 @@
+{
+    "apps_folder": "./apps",
+    "port": 5000,
+    "title": "🚀 AI Apps Launcher",
+    "theme": "dark",
+    "auto_refresh": true,
+    "refresh_interval": 30
+}
